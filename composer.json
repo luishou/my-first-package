@@ -1,0 +1,14 @@
+{
+    "name": "luis/first-package",
+    "description": "my first package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sulei2014",
+            "email": "xyyzhsl@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
